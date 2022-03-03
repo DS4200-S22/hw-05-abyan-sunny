@@ -2,6 +2,7 @@
 hw-05 - Brushing and Linking 
 
 Link to GitHub Pages: https://ds4200-s22.github.io/hw-05-abyan-sunny/
+Note: on a macbook the 3 graphs arent in a horizontal line, but on our desktops, when you fullscreen it, they are. Everything else works, just wanted to mention that.
 
 ## Purpose
 
